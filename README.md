@@ -17,6 +17,11 @@
          alt="Create React App version" />
   </a>
   
+  <a href="https://github.com/plaveault/docviewsiv/pulls">
+    <img src="https://badgen.net/github/prs/plaveault/docviewsiv" alt="Pull Request Amount">
+  </a>
+  <img src="https://badgen.net/github/last-commit/plaveault/docviewsiv" alt="Last commit date" />
+            
   <a href="./LICENSE">
     <img src="https://badgen.net/badge/license/MIT/blue"
          alt="License">
